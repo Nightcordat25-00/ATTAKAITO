@@ -1,10 +1,3 @@
-<!DOCTYPE README.MD>
-<README.MD></READ.ME>
-<TITLE> KAITO DAYO~! </TITLE>
-</HEAD> 
-<BODY></BODY>
-<P> TESTING!</P>
-<h1> RAWR HEADING!</h1>
-</BODY> 
-</README.MD>
+![୨୧⋆｡ KAITO card](https://github.com/user-attachments/assets/bc389202-b348-4d32-b044-80691b97ba07)
+
 
